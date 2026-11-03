@@ -1,2 +1,1 @@
-# bootcamp-002
-Repositorio para bootcamp impartido por at&amp;t
+this is my readme for this project 
