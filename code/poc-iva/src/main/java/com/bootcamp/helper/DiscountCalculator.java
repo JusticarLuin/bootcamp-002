@@ -10,7 +10,7 @@ public class DiscountCalculator {
 
     public double calculateDiscount(double price) {
 
-        if (price <= 0) {
+        if (price <= 0 || DISCOUNT_RATE <= 0 || DISCOUNT_RATE > 100 ) {
             return 0;
         }
 
